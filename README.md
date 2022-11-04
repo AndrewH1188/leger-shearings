@@ -42,3 +42,9 @@
 * [Pixabay](https://pixabay.com/) Used for some images.
 
 * [Code Institute Gitpod Template](https://github.com/Code-Institute-Org/gitpod-full-template) Adds the Emmet abbreviation to the workspace. 
+
+* [Bootstrap Grid](https://getbootstrap.com/docs/4.0/layout/grid/) To get the layout of images and text to the left and right.
+
+* [Google Fonts](https://fonts.google.com/specimen/Mulish?query=mulish) After inspecting the Shearings code I could see that they were using the Mulish font from Google Fonts. I headed over to Google fonts to get the links and apply this to the page.
+
+* [Favicon](https://shearings.imgix.net/Content/Shearings/images/favicons/apple-touch-icon.png) I originally made a copy of the Shearings Favicon, but upon inspecting the Shearings website I found there was a link to a better higher quality favicon that they use for their site, so I used the lik for this insetad.
