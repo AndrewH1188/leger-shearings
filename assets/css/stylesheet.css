@@ -1,21 +1,38 @@
 .opening-text {
     text-align: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
+/* ---------------------- Destination Information */
 
 .destination-title {
     color: #00659f;
+    padding-top: 20px;
 }
-
-.destination-title-right {
-    text-align: right;
-}
-
 
 .article-boxed {
-    background:#00659f;
+    background:#00659f21;
+    margin-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
 }
+
+
+.article-destination {
+    margin-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* ---------------------- Destination Images */
+
+.img-left, 
+.img-right {
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+
