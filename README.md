@@ -46,9 +46,15 @@
 
 * [Bootstrap Grid](https://getbootstrap.com/docs/4.0/layout/grid/) To get the layout of images and text to the left and right.
 
+* [Bootstrap Button](https://getbootstrap.com/docs/4.0/components/buttons/) Used to get the button code, but styled using own CSS code.
+
 * [Google Fonts](https://fonts.google.com/specimen/Mulish?query=mulish) After inspecting the Shearings code I could see that they were using the Mulish font from Google Fonts. I headed over to Google fonts to get the links and apply this to the page.
 
 * [Favicon](https://shearings.imgix.net/Content/Shearings/images/favicons/apple-touch-icon.png) I originally made a copy of the Shearings Favicon, but upon inspecting the Shearings website I found there was a link to a better higher quality favicon that they use for their site, so I used the lik for this insetad.
+
+* [Material Design for Bootstrap (MDB) v5 & v4](https://mdbootstrap.com/docs/standard/extended/back-to-top/) HTML, CSS and JavaScript Code used for the back to top button. I have added some CSS for the button so that this is has the same colours as the Shearings brand.
+
+* [Font Awesome](https://fontawesome.com/icons/arrow-up?s=regular&f=classic) Arrow icon used for the back to top button as well as the script tag at the end of the index.html document. This enables the Font Awesome arrow icon to display on the page to the user.
 
 
 ## Testing
