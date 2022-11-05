@@ -11,7 +11,7 @@
 
 .destination-title {
     color: #00659f;
-    margin-top: 40px;
+    margin-top: 20px;
     text-align: center;
 }
 
@@ -41,13 +41,18 @@
 .about-destination-text {
     text-align: center;
     font-size: large;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 9%;
+    padding-right: 9%;
 }
 
 .btn-book-tour {
     background:#00659f;
     color: #f8b840;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-left: 40%;
 }
 
 .btn-book-tour:hover {
@@ -55,10 +60,8 @@
     color: #0d669d;
 }
 
-
 /*--------------------------------------------- Back to top button */
-
-/* The code here for the back to top button has been taken from Material Design for Bootstrap (MDB) v5 & v4 */
+/* The code below for the back to top button has been taken from Material Design for Bootstrap (MDB) v5 & v4 */
 
 #btn-back-to-top {
     position: fixed;
@@ -80,4 +83,4 @@ html {
 .btn-back-to-top:hover {
     background:#f8b840;
     color: #00659f;
-} 
+}
