@@ -57,6 +57,8 @@
 
 * [Font Awesome](https://fontawesome.com/icons/arrow-up?s=regular&f=classic) Arrow icon used for the back to top button as well as the script tag at the end of the index.html document. This enables the Font Awesome arrow icon to display on the page to the user.
 
+* [Spanish Steps Text](https://romesite.com/spanish-steps.html) Text used from here for the Spanish Steps destination section.
+
 
 ## Testing
 When viewing my page with the blue destination box and white space (for the images that dont have a box) at first  was showing either side of the image as shown below. 
