@@ -1,5 +1,6 @@
 .opening-text {
     text-align: center;
+    font-size: large;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 15%;
@@ -11,28 +12,29 @@
 .destination-title {
     color: #00659f;
     padding-top: 20px;
+    text-align: center;
 }
 
 .article-boxed {
-    background:#00659f21;
+    background:#00659f17;
     margin-bottom: 20px;
+}
+
+.col-lg {
     padding-left: 0;
     padding-right: 0;
 }
 
-
 .article-destination {
     margin-bottom: 20px;
-    padding-left: 0;
-    padding-right: 0;
 }
 
 /* ---------------------- Destination Images */
 
 .img-left, 
 .img-right {
-    padding-left: 0;
-    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
     width: 100%;
 }
 
