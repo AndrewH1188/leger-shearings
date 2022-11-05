@@ -5,6 +5,7 @@
 2. [Images](#Images)
 3. [Design](#design)
 4. [Sources](#sources)
+5. [Testing](#testing)
 
 
 ## Idea
@@ -48,3 +49,12 @@
 * [Google Fonts](https://fonts.google.com/specimen/Mulish?query=mulish) After inspecting the Shearings code I could see that they were using the Mulish font from Google Fonts. I headed over to Google fonts to get the links and apply this to the page.
 
 * [Favicon](https://shearings.imgix.net/Content/Shearings/images/favicons/apple-touch-icon.png) I originally made a copy of the Shearings Favicon, but upon inspecting the Shearings website I found there was a link to a better higher quality favicon that they use for their site, so I used the lik for this insetad.
+
+
+## Testing
+When viewing my page with the blue destination box and white space (for the images that dont have a box) at first  was showing either side of the image as shown below. 
+![Blue box and white space](assets/images/testing/before-col-lg-targeted.jpg)
+At first when I inspected the column in Google I thought it could be the image size, but this was not the issue.
+
+Upon further inspecting and tartgeting the blue box in Google I could see that the SCSS with the col-lg padding right and left was set at 15px. Unticking the box meant that the blue box space on the left of the image, and where the image has no box the white space to the right of it were removed. I went into my CSS file and added the .col-lg with the padding-left and padding-right of 0 and this gave me the expected result that I was after.
+![Blue box and white space gone](assets/images/testing/col-lg.jpg)
