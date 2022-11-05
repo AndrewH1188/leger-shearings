@@ -6,6 +6,7 @@
 3. [Design](#design)
 4. [Sources](#sources)
 5. [Testing](#testing)
+    * [Google Lighthouse Testing](#google-lighthouse-testing)
 
 
 ## Idea
@@ -64,3 +65,20 @@ At first when I inspected the column in Google I thought it could be the image s
 
 Upon further inspecting and tartgeting the blue box in Google I could see that the SCSS with the col-lg padding right and left was set at 15px. Unticking the box meant that the blue box space on the left of the image, and where the image has no box the white space to the right of it were removed. I went into my CSS file and added the .col-lg with the padding-left and padding-right of 0 and this gave me the expected result that I was after.
 ![Blue box and white space gone](assets/images/testing/col-lg.jpg)
+
+## Google Lighthouse Testing
+Upon my initial testing of my design for Shearings with the images there and the site about half way to completion I was very happy with the results as shown below
+
+### Desktop Testing 1
+![Google Lighthouse Desktop Testing 1](assets/images/testing/desktop-lighthouse-testing-1.jpg)
+
+### Mobile Testing 1
+![Google Lighthouse Mobile Testing 1](assets/images/testing/mobile-lighthouse-testing-1.jpg)
+
+With these results it gives me great confidence that this will provide a positive user experience. This is due to the loading speed of the pages across both mobile and desktop devices able to display very quickly. Also seeing the SEO at 100% for both is also encouraging too. I will take a look at the Accessibility for both to see where I can make improvements and get this to 100%.
+
+### Desktop Testing 2
+![Google Lighthouse Desktop Testing 2]()
+
+### Mobile Testing 2
+![Google Lighthouse Mobile Testing 2]()
