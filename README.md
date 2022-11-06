@@ -1,5 +1,11 @@
 # Leger Shearings Interview Task 3
 
+## Showcase:
+![responsive-screenshot](assets/testing/leger-shearings-responsiveness.jpg)
+
+A deployed live version of this task can be found [here](https://andrewh1188.github.io/leger-shearings/).
+Using this link will allow you to see the published version of this task. If you copy and paste the link into any browser on any device you will also be able to view this task on there too.
+
 ## Table of Contents
 1. [Idea](#idea)
 2. [Images](#Images)
@@ -10,9 +16,9 @@
 
 
 ## Idea
+I looked sourced the layout and design inspiration from the P&O Cruises website on the Mediterranean page. I decided to replicate this kind of layout as I liked the look and feel of it but add in the button feature to book your tour.  
 
-
-
+![P&O Cruises Page inspiration](assets/design/p-and-o-cruises-layout.png)
 
 ## Images
 ### Adobe Stock
@@ -59,6 +65,7 @@
 
 * [Spanish Steps Text](https://romesite.com/spanish-steps.html) Text used from here for the Spanish Steps destination section.
 
+* [P&O Cruises](https://www.pocruises.com/cruise-destinations/mediterranean) was used to influence the visual design layout.
 
 ## Testing
 When viewing my page with the blue destination box and white space (for the images that dont have a box) at first  was showing either side of the image as shown below. 
