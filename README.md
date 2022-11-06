@@ -43,6 +43,8 @@ I looked sourced the layout and design inspiration from the P&O Cruises website 
 
 
 ## Sources
+* [P&O Cruises](https://www.pocruises.com/cruise-destinations/mediterranean) was used to influence the visual design layout.
+
 * [Tiny PNG](https://tinypng.com/) Used to compress image sizes.
 
 * [Adobe Stock](https://stock.adobe.com/uk/) Used for some images.
@@ -63,9 +65,18 @@ I looked sourced the layout and design inspiration from the P&O Cruises website 
 
 * [Font Awesome](https://fontawesome.com/icons/arrow-up?s=regular&f=classic) Arrow icon used for the back to top button as well as the script tag at the end of the index.html document. This enables the Font Awesome arrow icon to display on the page to the user.
 
+* [St Peter's Basilica Text](https://www.rome.net/st-peters-basilica) Text used from here for the St Peter's Basilica destination section.
+
 * [Spanish Steps Text](https://romesite.com/spanish-steps.html) Text used from here for the Spanish Steps destination section.
 
-* [P&O Cruises](https://www.pocruises.com/cruise-destinations/mediterranean) was used to influence the visual design layout.
+* [Florence Text](https://www.visitflorence.com/itineraries-in-florence/three-walking-itineraries.html) Some text used from here for the Florence destination section. Other [Florence Text](https://www.italyguides.it/en/tuscany/florence) was sourced from this page to enhance the content a bit further.
+
+* [Roman Forum Text](https://www.rome.net/roman-forum) Text used from here for the Roman Forum destination section.
+
+* [Venice Canals Text](https://www.goparoo.com/venice/attractions/canals/) Text used from here for the Venice Canals destination section.
+
+* [Vatican City Text](https://www.rome.net/vatican-city) Text used from here for the Vatican City destination section.
+
 
 ## Testing
 When viewing my page with the blue destination box and white space (for the images that dont have a box) at first  was showing either side of the image as shown below. 
