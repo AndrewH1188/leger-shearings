@@ -8,7 +8,7 @@ Using this link will allow you to see the published version of this task. If you
 
 ## Table of Contents
 1. [Idea](#idea)
-2. [Images](#Images)
+2. [Images](#images)
 3. [Design](#design)
 4. [Sources](#sources)
 5. [Testing](#testing)
