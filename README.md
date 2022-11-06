@@ -1,7 +1,7 @@
 # Leger Shearings Interview Task 3
 
 ## Showcase:
-![responsive-screenshot](assets/testing/leger-shearings-responsiveness.jpg)
+![responsive-screenshot](assets/images/testing/leger-shearings-responsiveness.jpg)
 
 A deployed live version of this task can be found [here](https://andrewh1188.github.io/leger-shearings/).
 Using this link will allow you to see the published version of this task. If you copy and paste the link into any browser on any device you will also be able to view this task on there too.
@@ -77,17 +77,19 @@ I looked sourced the layout and design inspiration from the P&O Cruises website 
 
 * [Vatican City Text](https://www.rome.net/vatican-city) Text used from here for the Vatican City destination section.
 
+* [Responsive Testing](https://ui.dev/amiresponsive) This site was used to test the responsiveness. 
+
 
 ## Testing
 When viewing my page with the blue destination box and white space (for the images that dont have a box) at first  was showing either side of the image as shown below. 
 ![Blue box and white space](assets/images/testing/before-col-lg-targeted.jpg)
 At first when I inspected the column in Google I thought it could be the image size, but this was not the issue.
 
-Upon further inspecting and tartgeting the blue box in Google I could see that the SCSS with the col-lg padding right and left was set at 15px. Unticking the box meant that the blue box space on the left of the image, and where the image has no box the white space to the right of it were removed. I went into my CSS file and added the .col-lg with the padding-left and padding-right of 0 and this gave me the expected result that I was after.
+Upon further inspecting and targeting the blue box in Google I could see that the SCSS with the col-lg padding right and left was set at 15px. Unticking the box meant that the blue box space on the left of the image, and where the image has no box the white space to the right of it were removed. I went into my CSS file and added the .col-lg with the padding-left and padding-right of 0 and this gave me the expected result that I was after.
 ![Blue box and white space gone](assets/images/testing/col-lg.jpg)
 
 ## Google Lighthouse Testing
-Upon my initial testing of my design for Shearings with the images there and the site about half way to completion I was very happy with the results as shown below
+Upon my initial testing of my design for Shearings with the images there and the site about half-way to completion I was very happy with the results as shown below
 
 ### Desktop Testing 1
 ![Google Lighthouse Desktop Testing 1](assets/images/testing/desktop-lighthouse-testing-1.jpg)
@@ -98,7 +100,11 @@ Upon my initial testing of my design for Shearings with the images there and the
 With these results it gives me great confidence that this will provide a positive user experience. This is due to the loading speed of the pages across both mobile and desktop devices able to display very quickly. Also seeing the SEO at 100% for both is also encouraging too. I will take a look at the Accessibility for both to see where I can make improvements and get this to 100%.
 
 ### Desktop Testing 2
-![Google Lighthouse Desktop Testing 2]()
+![Google Lighthouse Desktop Testing 2](assets/images/testing/desktop-lighthouse-testing-2.jpg)
 
 ### Mobile Testing 2
-![Google Lighthouse Mobile Testing 2]()
+![Google Lighthouse Mobile Testing 2](assets/images/testing/mobile-lighthouse-testing-2.jpg)
+
+I tested my site again with Google Lighthouse and am very happy with the second lot of results that this has generated. This provides the user a fantastic experience in Performance, Best Practices, SEO and Accessibility. I looked into the 96% score and saw that the reason this was scored like this was because of the image contrast ratio. Using the images that I have, unless I replace these there isn't a lot I can do unfortunately. 
+
+In addition to using the ui.dev/amiresponsive website (as mentioned in the sources section) and Google Lighthouse, I also used my iPhone 13 and iPad to test how this looked and displayed. Testing was also done using my Macbook Pro 13 inch screen. Testing was done using Google Chrome and Safari browsers.

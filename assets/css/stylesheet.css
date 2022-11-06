@@ -101,7 +101,7 @@ html {
 }
 
 
-/*-------------------------- iPad Mini Rotated */
+/*-------------------------- iPad Rotated */
 @media (max-width: 1024px) {
     .destination-title {
         font-size: x-large;
