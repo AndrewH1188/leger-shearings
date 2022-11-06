@@ -7,11 +7,11 @@
     padding-right: 15%;
 }
 
-/* ---------------------- Destination Information */
 
+/* ---------------------- Destination Information */
 .destination-title {
     color: #00659f;
-    margin-top: 30px;
+    margin-top: 35px;
     text-align: center;
 }
 
@@ -29,8 +29,8 @@
     padding-right: 0;
 }
 
-/* ---------------------- Destination Images, Text and Buttons*/
 
+/* ---------------------- Destination Images, Text and Buttons*/
 .img-left, 
 .img-right {
     margin-left: 0;
@@ -60,6 +60,7 @@
     color: #0d669d;
 }
 
+
 /*--------------------------------------------- Back to top button */
 /* The code below for the back to top button has been taken from Material Design for Bootstrap (MDB) v5 & v4 */
 
@@ -85,21 +86,10 @@ html {
     color: #00659f;
 }
 
+
 /*--------------------------------------------- Media Queries */
 
-@media (max-width: 1600px) { 
-    .btn-book-tour {
-        margin-bottom: 5%;
-    }
-
-    .img-right {
-    margin-bottom: 5%;
-    }
-}
-
-
-/*---------------- iPad Mini */
-
+/*-------------------------- iPad Mini */
 @media (max-width: 768px) {
     .btn-book-tour {
         margin-left: 44%;
@@ -111,7 +101,7 @@ html {
 }
 
 
-/* iPad Mini Rotated */
+/*-------------------------- iPad Mini Rotated */
 @media (max-width: 1024px) {
     .destination-title {
         font-size: x-large;
@@ -119,20 +109,22 @@ html {
     }
 
     .about-destination-text {
-        font-size: medium;
+        font-size: small;
+    }
+
+    .btn-book-tour {
+        margin-bottom: 30px;
     }
 }
 
 
-
-/*---------------- iPhone 13 */
-
+/*-------------------------- iPhone 13 */
 @media (max-width: 481px) {
     .btn-book-tour {
         margin-left: 34%;
     }
 
     .img-right {
-        margin-bottom:5%;
+        margin-bottom: 5%;
     }
 }
